@@ -569,7 +569,10 @@ footer .line-footer p a{
 @media screen and (max-width:900px){
 
     /*cabeçalho*/
-    .menu-desktop .btn-contato{
+    .menu-desktop {
+        display:none;
+    }
+     .btn-contato{
         display:none;
     }
     
@@ -623,7 +626,11 @@ footer .line-footer p a{
         gap:20px;
     }
     
-    
+    .especialidades .especialidades-box h3{
+    font-size: 20px;
+    margin: 15px 0;
+
+}
     /*sobre*/
         .sobre .txt-sobre h2{
         font-size: 34px;
@@ -661,11 +668,11 @@ footer .line-footer p a{
         width: 100%;
         max-width: 360px;
         margin: 0 auto;
-        height:460px ;
+        height:200px ;
         background-size: cover;
         background-position: 100% 0%;
         transition: 8s;
-        border-radius:40px ;
+        border-radius:20px ;
         cursor:pointer;
         position: relative;
     }
@@ -674,6 +681,26 @@ footer .line-footer p a{
     section.portfolio .flex{
         gap: 60px;
     }
+
+    .overlay {
+        position: absolute;
+        top:0;
+        left:0;
+        width: 100%;
+        height: 100%;
+        background-color:#000000b8;
+        border-radius: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 24px;
+        font-weight:600;
+        color:#fff;
+        opacity:0;
+        transition:.8s ;
+     
+    }
+    
     
     
     /*rodapé*/
