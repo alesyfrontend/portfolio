@@ -1,7 +1,7 @@
 <h1> Portifolio </h1>
 
 ## 📋 Descrição
- Aqui vvenho demostrando  as minhas qualificações de um profissional através de um conjunto selecionado de trabalhos realizados.
+Neste portfólio demostro as minhas qualificações  profissionais através de um conjunto selecionado de trabalhos realizados.
 Todos os arquivos foram criados do zero, mas o principal aqui era praticar o uso do JavaScript.
 
 
