@@ -11,5 +11,5 @@ Todos os arquivos foram criados do zero, mas o principal aqui era praticar o uso
 - ``CSS3``
 - ``JavaScript``
 
-![portfólio](https://github.com/user-attachments/assets/aa488ef9-e49f-4a43-92b9-5406b97f8f95)
-
+  
+![tela](https://github.com/user-attachments/assets/50dbebf8-ebd4-404b-bca0-f3413d89897a)
